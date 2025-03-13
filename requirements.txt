@@ -1,0 +1,11 @@
+# Core dependencies
+openai
+agents  # OpenAI Agents SDK
+streamlit
+graphviz  # Python package for creating graphical visualizations
+dotenv  # Python package for managing environment variables
+
+# Note: The following are part of Python's standard library and don't need to be installed separately:
+# - asyncio
+# - uuid
+# - datetime
