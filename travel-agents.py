@@ -103,6 +103,8 @@ summary_agent = Agent(
     }
 
     确保所有字段都有完整的内容，输出格式必须是有效的JSON。
+    
+    All text output must be in English.
     """,
     output_type=TravelPlan,
     model=OpenAIChatCompletionsModel(
